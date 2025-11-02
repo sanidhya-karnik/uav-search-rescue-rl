@@ -99,7 +99,7 @@ cd uav-search-rescue-rl
 **Windows:**
 ```cmd
 python -m venv venv
-venv\Scripts\activate.bat
+venv\Scripts\activate
 ```
 
 **Linux/Mac:**

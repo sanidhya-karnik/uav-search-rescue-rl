@@ -10,22 +10,6 @@ Implementation of reinforcement learning approaches for routing multiple UAVs in
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Algorithms](#algorithms)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [Troubleshooting](#troubleshooting)
-- [Citation](#citation)
-- [Contributing](#contributing)
-
----
-
 ## 🎯 Overview
 
 This project solves the **Team Orienteering Problem (TOP)** with charging stations for UAV search and rescue missions. Multiple UAVs must visit survivor locations to maximize total rescued rewards while managing:
@@ -296,7 +280,7 @@ uav-search-rescue-rl/
 
 ---
 
-## 📊 Algorithms Implemented
+## 📊 Results
 
 ### Performance Comparison (20 nodes, 2 UAVs, seed=42)
 

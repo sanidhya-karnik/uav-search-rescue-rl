@@ -98,7 +98,7 @@ cd uav-search-rescue-rl
 
 **Windows:**
 ```cmd
-python -m venv venv
+py -3.12 -m venv venv
 venv\Scripts\activate
 ```
 

@@ -490,12 +490,12 @@ agent = DQNAgent(env, hidden_dims=[128, 128, 64], batch_size=32)
 ### This Implementation
 
 ```bibtex
-@software{jain2025uav,
-  author = {Jain, Akshat and Sadeghi, Negar and Karnik, Sanidhya},
+@software{karnik2025uav,
+  author = {Karnik, Sanidhya},
   title = {Multi-Agent RL for UAV Search and Rescue: Implementation},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/uav-search-rescue-rl}
+  url = {https://github.com/sanidhya-karnik/uav-search-rescue-rl}
 }
 ```
 
